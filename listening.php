@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>磨耳朵 - 听力训练</title>
+    <title>大力磨耳朵 - 听力训练</title>
     <link rel="stylesheet" href="css/style.css">
     <style>
         .audio-icon-large { font-size: 6rem; cursor: pointer; transition: transform 0.2s; display: inline-block; }
@@ -18,7 +18,7 @@
 <body>
     <header>
         <a href="index.php" class="logo">⬅ 退出训练</a>
-        <div>磨耳朵 👂</div>
+        <div>大力磨耳朵 👂</div>
     </header>
 
     <div class="container">
