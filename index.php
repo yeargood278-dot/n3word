@@ -46,7 +46,7 @@
             </a>
             <a href="listening.php" class="menu-card">
                 <span class="menu-icon">👂</span>
-                <span class="menu-title">磨耳朵</span>
+                <span class="menu-title">大力磨耳朵</span>
                 <span class="menu-desc">纯听力辨析训练</span>
             </a>
             <a href="test.php" class="menu-card" style="border-bottom-color: #d35400;">
